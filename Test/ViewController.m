@@ -49,17 +49,6 @@
     }
     // 需要释放获取到的属性
     free(ivars);
-    
-    
-    // dev1  dev1  dev1
-    
-    // test test test
-    
-    
-    
-    
-    
-    
 }
 
 
